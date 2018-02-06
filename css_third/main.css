@@ -1,0 +1,33 @@
+h1 {
+    color: blanchedalmond;
+}
+#prvi {
+    color: darkturquoise;
+    opacity: 0.3;
+}
+#drugi {
+  color: #00ced1;
+}
+#treci {
+    color: rgba(0, 206, 209, 0.2);
+}
+.img-wrapper { opacity: 0.5; }
+#paskalko { background-color: rgba(255, 0, 0, 0.2); }
+.prva {
+    background-color: aliceblue;
+}
+.druga {
+    background-color: hotpink;
+}
+.treca {
+background-color: aqua;
+}
+.cetvrta {
+    background-color: bisque;
+}
+.peta {
+    background-color: blueviolet;
+}
+.klasa {
+    background-color: forestgreen;
+}
