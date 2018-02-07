@@ -1,0 +1,16 @@
+#title {
+    font-size: 100%;
+}
+.intro {
+    text-transform: uppercase;
+    font-family: 'Nanum Brush Script', cursive;
+    text-decoration: underline; 
+}
+.description {
+    text-transform: lowercase;
+    text-decoration: Line-through;
+
+}
+.indent {
+    text-indent: 20%;
+}

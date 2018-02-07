@@ -1,0 +1,17 @@
+/* a {
+    color: rgb(33, 180, 131);
+    text-shadow: 1px 3px 0px rgba(69, 255, 149, 0.83);
+} */
+a:link {
+    color: red;
+
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: green;
+}
+a:focus {
+    color: blue;
+}

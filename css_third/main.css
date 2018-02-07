@@ -31,3 +31,15 @@ background-color: aqua;
 .klasa {
     background-color: forestgreen;
 }
+tr:nth-child(odd) td:nth-child(odd)  {
+    background-color: lime;
+}
+tr:nth-child(even)  td:nth-child(even) {
+    background-color:lime;
+}
+tr:nth-child(odd) td:nth-child(even)  {
+    background-color: pink;
+}
+tr:nth-child(even)  td:nth-child(odd) {
+    background-color:pink;
+}
