@@ -1,0 +1,27 @@
+#first {
+    width: 200px;
+    list-style-type: circle;
+}
+#second {
+    width: 200px;
+    list-style-type: square;
+}
+#third {
+    width: 200px;
+    list-style-type: upper-alpha;
+
+}
+#fourth {
+    width: 200px;
+    list-style-type: upper-roman;
+}
+#fifth {
+    width: 200px;
+    list-style-image: url(http://www.rhshightimes.com/wp-content/uploads/2015/06/paw-3.png);
+    list-style-position: outside;
+}
+#sixth {
+    width: 200px;
+    list-style-image: url(http://www.rhshightimes.com/wp-content/uploads/2015/06/paw-3.png);
+    list-style-position: inside;
+}

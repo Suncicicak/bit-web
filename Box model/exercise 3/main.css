@@ -1,0 +1,15 @@
+body {
+background-color: #5a3d75;   
+}
+.main_title {
+    width: 960px;
+    margin: 50px auto;
+    text-align: center;
+    color: beige;
+    padding: 50px 0px 50px 0px;
+    background-color: #2c78b7;
+    font-family: 'Indie Flower', cursive;    
+    -webkit-box-shadow: 2px 0px 27px 9px rgba(69,65,69,1);
+    -moz-box-shadow: 2px 0px 27px 9px rgba(69,65,69,1);
+    box-shadow: 2px 0px 27px 9px rgba(69,65,69,1);
+}
