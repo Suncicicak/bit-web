@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+font-size: 80px;
+font-family: 'Butcherman', 'cursive';
+color: #00cc00;
+text-shadow: 5px 5px 5px rgba(150, 150, 150, 1);
+}
+img {
+   width: 200px;
+}
+img:first-child {
+    position: relative;
+    top: 50px;
+    left: 100px;
+
+}
+img:nth-child(2) {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+
+}
+img:last-child {
+    position: fixed;
+    bottom: 0px;
+
+}
+a {
+    position: fixed;
+    bottom: 0%;
+    right: 10%;
+    
+}
