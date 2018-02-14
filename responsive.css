@@ -1,0 +1,46 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div {
+    margin: 0 auto;
+    width: 960px;
+}
+
+img {
+    float: left;
+    width: 90px;
+    padding: 20px;
+}
+
+header {
+    overflow: hidden;
+}
+
+section {
+    float: left;
+    width: 400px;
+    padding: 20px;
+}
+
+main {
+    overflow: hidden;
+}
+
+article{
+    width: 400px;
+    float: left;
+    border-left: 1px solid black;
+    padding: 20px;
+}
+
+#name{
+    padding: 30px;
+}
+
+
+
+
+
+

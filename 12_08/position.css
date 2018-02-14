@@ -1,0 +1,19 @@
+div {
+    width: 200px;
+    height: 200px;
+}
+.red  {
+    background-color: #C1392B;
+}
+.yellow {
+    background-color: #FFBE00;
+}
+.blue {
+    background-color: #2D3E50;
+}
+.arranging {
+    position: relative;
+}
+.rearranging {
+    position: absolute;
+}
