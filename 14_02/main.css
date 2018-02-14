@@ -1,0 +1,134 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+div {
+    /* width: 330px; */
+    margin: 7% 7%;
+
+}
+h1 {
+    text-align: center;
+    margin-bottom: 2%;
+}
+header {
+    width: 100%; 
+   
+}
+header > img {
+    box-sizing: border-box;
+    width: 100%;
+    border: 0.5px solid lightgray;
+    border-radius: 20px;
+    padding: 2%;
+}
+article > img {
+    width: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 5% 0;
+
+}
+li {
+    text-align: center;
+    border: 0.5px solid black;
+    border-radius: 20px;
+    padding: 2% 0 ;
+}
+li:hover{
+    background-color: blue;
+    color: white;
+}
+article {
+    border: 0.5px solid lightgray;
+    border-radius: 20px;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+
+@media (min-width: 768px) {
+    div {
+        position: relative;
+    }
+    nav {
+        position: absolute;
+        top: -6px;
+        right: 0px;
+    }
+    nav ul li {
+        box-sizing: border-box;
+        float: left;
+        border: none;
+        color: lightskyblue;
+        font-size: 20px; 
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+    ul {
+        width: 250px;  
+        
+     
+       
+    }   
+    h1 {
+        float: left;
+    }
+ 
+     article img {
+        float: left;
+        width: 30%; 
+        clear: left;
+    }
+    article p {
+        margin-left: 33%;
+    }
+    article {
+        word-wrap: break-word;
+    min-height: 110px;
+    overflow: hidden;
+    
+    }
+}
+
+@media(min-width: 1200px) {
+    div {
+        margin: 5% 10%;
+    }
+    ul {
+        width: 330px;
+        float: right;
+    }
+    nav ul li {
+        font-size: 25px;
+        padding: 10px 20px;
+    }
+    nav {
+        position: absolute;
+        top: -23px;
+        right: 0px;
+    }
+    article {
+        float: left;
+        width: 29.3%;
+        /* display: inline; */
+        max-height: 150px;
+        overflow: visible;
+        border-style: none;
+    }
+    article img {
+        float: none;
+        clear: none;
+        width: 100%;
+    }
+    article p {
+        margin-top: 10px;
+        margin-left: 0;
+        float: left;
+        /* width: 30%; */
+    }
+    main {
+        margin: 10px 0;
+        width: 100%;
+    }
+}
