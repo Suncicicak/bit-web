@@ -1,0 +1,6 @@
+h1 {
+    @include text-shadow(purple, 60px);
+}
+img {
+    @include box-shadow(green);
+}
