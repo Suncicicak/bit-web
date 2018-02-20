@@ -1,0 +1,46 @@
+p {
+    border: 2px solid black;
+    float: left;
+    width: 300px /960px *100%;
+    margin-left: 1%;
+    padding: 5px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 55px;
+    background-color: rgb(247, 4, 126);
+    color: turquoise;
+}
+.first {
+    @extend p;
+    border-color: red;
+}
+
+.second {
+    @extend p;
+    border-color: blue;
+}
+
+.third {
+    @extend p;
+    border-color: green;
+}
+
+ul {
+    list-style-type: none; 
+}
+
+a {
+    text-decoration: none;
+    &:visited {
+        background-color: orange;
+    }
+    &:link {
+        background-color: green;
+    }
+    &:active {
+        background-color: yellow;
+    } 
+    &.important {
+        font-weight: bold;
+    }
+}

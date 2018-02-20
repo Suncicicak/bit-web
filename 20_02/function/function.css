@@ -1,0 +1,13 @@
+p {
+  padding: 10px;
+  border: 2px solid lime; }
+
+.first {
+  box-sizing: content-box;
+  width: 300px; }
+
+.second {
+  box-sizing: border-box;
+  width: 324px; }
+
+/*# sourceMappingURL=function.css.map */

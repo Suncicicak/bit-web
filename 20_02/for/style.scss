@@ -1,0 +1,22 @@
+@mixin background-color($n) {
+    @if $n==1 {
+        background-color: yellow
+    }
+    @else if $n==2 {
+        background-color: green;
+    }
+    @else if $n==3 {
+        background-color: hotpink;
+    }
+    @else {
+        background-color: skyblue;
+    }
+}
+
+@for $i from 1 through 4 {
+    p:nth-child(#{$i}) {
+        font-size: 16px + ($i - 1) * 2px;
+        @include background-color($i)
+    }
+}
+
