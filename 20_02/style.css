@@ -1,0 +1,36 @@
+p, .first, .second, .third {
+  border: 2px solid black;
+  float: left;
+  width: 31.25%;
+  margin-left: 1%;
+  padding: 5px;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 55px;
+  background-color: #f7047e;
+  color: turquoise; }
+
+.first {
+  border-color: red; }
+
+.second {
+  border-color: blue; }
+
+.third {
+  border-color: green; }
+
+ul {
+  list-style-type: none; }
+
+a {
+  text-decoration: none; }
+  a:visited {
+    background-color: orange; }
+  a:link {
+    background-color: green; }
+  a:active {
+    background-color: yellow; }
+  a.important {
+    font-weight: bold; }
+
+/*# sourceMappingURL=style.css.map */

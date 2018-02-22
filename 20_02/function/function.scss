@@ -1,0 +1,22 @@
+p {
+padding:10px;
+border:2px solid lime; 
+
+}
+// $padding:20px;
+// $border:10px;
+// $content:15px;
+
+
+@function convert($width, $padding, $border) {
+    @return 2 * $padding + 2* $border + $width;
+ }
+  
+.first {
+    box-sizing: content-box;
+    width:300px;
+}
+.second {
+    box-sizing: border-box;
+    width: convert(300px, 10px, 2px );
+}
