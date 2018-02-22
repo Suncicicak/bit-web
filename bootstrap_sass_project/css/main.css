@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Lato-Regular';
+  src: url("../vendor/font-awesome/Lato-Regular.ttf"); }
+.header {
+  position: relative;
+  font-family: 'Lato-Regular'; }
+
+.banner-top {
+  background-color: #18bc9c; }
+  .banner-top .banner-top-wrapper {
+    position: absolute;
+    bottom: 0;
+    left: 0; }
+
+.line {
+  width: 50px;
+  height: 2px;
+  margin: 10px auto; }
+  .line.line-black {
+    background-color: #000; }
+  .line.line-white {
+    background-color: #fff; }
+
+/*# sourceMappingURL=main.css.map */

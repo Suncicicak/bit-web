@@ -2,32 +2,33 @@
     margin: 0;
     font-family: sans-serif;
 }
+
 .first {
     width: 960px;
     margin: 0 auto;
     overflow: hidden;
 }
+
 ul {
     color: white;
     padding: 9px;
     background-color: #C1392B;
     overflow: hidden;
     margin-bottom: 3px;
-    
 }
+
 #nav li {
     float: right;
     padding: 10px 5px;
     list-style-type: none;
     font-family: sans-serif;
     margin: 1px 10px;
-    
-}
-img {
-display: block;
-    width: 960px;
 }
 
+img {
+    display: block;
+    width: 960px;
+}
 
 .list {
     background-color: #FFBF00;
@@ -38,6 +39,7 @@ display: block;
     margin-top: 3px;
     color: grey;
 }
+
 .list li {
     border-bottom: 1px gray dotted;
     padding: 10px;
@@ -50,41 +52,38 @@ span {
     display: block;
     padding: 83px;
 }
-.box-wrapper {
-    margin: 15px 10px;
-    float: left;
-    text-align: left;
-    width: 300px;
-    font-size: 12px;
-}
-.box {
-    width: 300px;
-    height: 200px;
-    margin-bottom: 10px;
-}
+
 .red {
     background-color: #C1392B;
 }
+
 .blue {
     background-color: #2D3E50;
 }
+
 .yellow {
     background-color: #FFBE00;
 }
-.second-row {
-clear: left;
-}
+
 .green {
     background-color: #27AE61;
-    clear: 
 }
-.footer  {
-    height: 20px;
-    width: 1320px;
+
+.footer {
+    width: 100%;
     color: white;
-    margin: 30px auto;
     padding: 10px 20px;
 }
+
 .footer p {
     margin-left: 180px;
+}
+.carousel-wrapper {
+    height: 500px;
+    overflow: hidden;
+}
+
+.carousel-wrapper .carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-size: 20% 100%;
 }
