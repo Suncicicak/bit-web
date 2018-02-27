@@ -1,0 +1,13 @@
+.first {
+    background-color:  green;
+}
+.second {
+    background-color: hotpink;
+}
+.third {
+    background-color: indigo;
+}
+.different {
+    background-color: khaki;
+    text-transform: uppercase;
+}

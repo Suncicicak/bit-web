@@ -43,6 +43,10 @@
     // save_data_in_session("tihomir", 10);
     save_data_in_local("stevan", 22);
 
+    function goBack(num) {
+        window.history.go(num)
+    }
+
     // console.log(browserInfo());
     // console.log(isBrowserOnline());
     // console.log(browsersDimension());
@@ -50,6 +54,8 @@
     // console.log(locationReload());
     // console.log(setLocation());
 
-    console.log(get_data());
+    // console.log(get_data());
+    console.log(goBack(-3));
+    
     
 })();
