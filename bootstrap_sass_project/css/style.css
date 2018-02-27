@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>bit-web/main.css.map at master · brankonole/bit-web</title>
+  <title>bit-web/style.css at master · brankonole/bit-web</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/29786305?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="brankonole/bit-web" property="og:title" /><meta content="https://github.com/brankonole/bit-web" property="og:url" /><meta content="Contribute to bit-web development by creating an account on GitHub." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjUwOTU1MDc5OjRlYTU5OGMyYWZjZDcxYzYzOGIwYzI3MjIyZjY4MDk0MGU5YjQ0MzQ2MjU2ZmI5ZDc1MWNkZjZhYTFiNjI3YjE=--74b6fbc89438799ab2d4d820cc83ed0580dd1914">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjUwOTU1MDc5Ojc0NTFlNjk3OWY5NjNkYmIwM2FmZDVmZTcyOWZjOTQ1NWU1MDJkNDg0YWJjNDBhNGFkZDI3YzVhNTU2MDM4ZTg=--3647332e7d3e2904177ef8db13a09b8e25796cc8">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="EC12:26706:1149B12:2015F71:5A95A1FD" data-pjax-transient>
+  <meta name="request-id" content="EC12:26706:114A1BE:2018B77:5A95A219" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -49,7 +49,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EC12:26706:1149B12:2015F71:5A95A1FD" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="36072892" name="octolytics-actor-id" /><meta content="Suncicicak" name="octolytics-actor-login" /><meta content="b30508856ac6a9fcafd2cbc28e54774a53d331969918e461386437e05c5085e3" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="EC12:26706:114A1BE:2018B77:5A95A219" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="36072892" name="octolytics-actor-id" /><meta content="Suncicicak" name="octolytics-actor-login" /><meta content="b30508856ac6a9fcafd2cbc28e54774a53d331969918e461386437e05c5085e3" name="octolytics-actor-hash" />
 <meta content="https://github.com/hydro_browser_events" name="hydro-events-url" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
@@ -65,7 +65,7 @@
     <meta name="user-login" content="Suncicicak">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YTI2YmNhNjhlN2Q5MWQwMWM1Y2JkOGRhN2U5NDc0NWVjZWRmZTBkODA1Y2RkYTE4ZjhmMjAzNjQyN2VlOTlmYXx7InJlbW90ZV9hZGRyZXNzIjoiNDYuMjQwLjIyMy4xNzciLCJyZXF1ZXN0X2lkIjoiRUMxMjoyNjcwNjoxMTQ5QjEyOjIwMTVGNzE6NUE5NUExRkQiLCJ0aW1lc3RhbXAiOjE1MTk3NTU4MDAsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="MjY5Zjg1NWNlZDI4NjFkYjhlN2NjMjg4ZWI0OGU0ODNlMWNlNGQ1MmNjOTcxNzAwOTc3Y2I4Mjg1OGNlNThkNHx7InJlbW90ZV9hZGRyZXNzIjoiNDYuMjQwLjIyMy4xNzciLCJyZXF1ZXN0X2lkIjoiRUMxMjoyNjcwNjoxMTRBMUJFOjIwMThCNzc6NUE5NUEyMTkiLCJ0aW1lc3RhbXAiOjE1MTk3NTU4MDksImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_HERO_CARD_UPLOADER,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
@@ -82,7 +82,7 @@
   <meta content="29786305" name="octolytics-dimension-user_id" /><meta content="brankonole" name="octolytics-dimension-user_login" /><meta content="120275886" name="octolytics-dimension-repository_id" /><meta content="brankonole/bit-web" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="120275886" name="octolytics-dimension-repository_network_root_id" /><meta content="brankonole/bit-web" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/brankonole/bit-web/blob/master/bootstrap_sass_project/css/main.css.map" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/brankonole/bit-web/blob/master/bootstrap_sass_project/css/style.css" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -133,7 +133,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/search" class="js-site-search-form" data-scoped-search-url="/brankonole/bit-web/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/brankonole/bit-web/blob/master/bootstrap_sass_project/css/main.css.map" class="header-search-scope no-underline">This repository</a>
+        <a href="/brankonole/bit-web/blob/master/bootstrap_sass_project/css/style.css" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -256,7 +256,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ucCqQF6wRUWekdk7/RbFbaT44NEpzNpOANZ6WsH/8IJKRgu4nQ0WFK4rNf0Mp4CR+Tg6cPatDRYh5y5oBXmolw==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dyaeWBMZX/89MJYEK3cRMkbeCMcqOx+AgHqaqSdP/MeEoD+g0KQMrg2KesLaxlTOGx7SZvVayNihS86b48mk0g==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -268,7 +268,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="avk0KCbuSVM8t1027NE6cu4FnCqW8Km1RJcGmJ57i8yZf5XQ5VMaAgwNsfAdYH+Os8VGi0mRfu1lplKqWv3T2Q==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8w+9mjTkYXU2+CTjykonCReeYWdmkaoi8x0b7JBnLcgAiRxi91kyJAZCyCU7+2L1Sl67xrnwfXrSLE/eVOF13Q==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -304,7 +304,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="IGOWhcgsUNz/rk5A0a2v6ZP9LV99oOohR/tDGZ6gdpkKflR/SS/ZF72FPDILQ9V1jsAGVEmU+C3AyfG45wM03w==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="120275886" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KBplRw6CJii/q4qc0eMKyQDzpknJp+yOwgmUPXu3PnUCB6e9j4Gv4/2A+O4LDXBVHc6NQv2T/oJFOyacAhR8Mw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="120275886" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/brankonole/bit-web/subscription"
@@ -384,7 +384,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8d4OoikcUbUXzXkM/0l3rPra7DNJp0m0fm37Jn8PXFxHlcUw4hI35MfY3SUMR/zmu6iqwRqVUn2F1s2PcCNVDQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3LU4Bwnf9Vdo0Lrefh4NzYdEZQFeh4l90NhT28lR04tq/vOVwtGTBrjFHveNEIaHxjYj8w21krQrY2Vyxn3a2g==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -399,7 +399,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="A0u2W06bxYIKk548srMdYrZyuPCwYYOTCYkA7Y4Gqes4kR3FB48l8UG96pWMZ0OpAuOMUlyKE02r/e/syBXudg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gF5FuehIae/5BbSII1jnAQL0Sr5zlMq3FbrY+AYIVW67hO4noVyJnLIrwCEdjLnKtmV+HJ9/Wmm3zjf5QBsS8w==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -418,7 +418,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Bgvtdk6Reu6rZjnQ77CU6l7w3eR3l55P8j8zFAtIh7EDRxLvc03zDV43Tiu1QPU55RHprq9N53khKiqTVZJodw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="DmiguXqK8EAEXFVEbZZqR7MMyMCPW2FoFOWJf25oWdALJF8gR1Z5o/ENIr83ZguUCO38ileBGF7H8JD4MLK2Fg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -499,9 +499,9 @@
   <div class="repository-content ">
 
     
-  <a href="/brankonole/bit-web/blob/02209a13da8ed460718b0b46e0b7647d598aefbd/bootstrap_sass_project/css/main.css.map" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/brankonole/bit-web/blob/02209a13da8ed460718b0b46e0b7647d598aefbd/bootstrap_sass_project/css/style.css" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:71d16f7924b9b2a2a2560b50ee52c4fa -->
+  <!-- blob contrib key: blob_contributors:v21:a50fb8d91d7a8422b500e1b1a718d0ae -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -543,7 +543,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/brankonole/bit-web/blob/master/bootstrap_sass_project/css/main.css.map"
+               href="/brankonole/bit-web/blob/master/bootstrap_sass_project/css/style.css"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -580,12 +580,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/brankonole/bit-web" data-pjax="true"><span>bit-web</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/brankonole/bit-web/tree/master/bootstrap_sass_project" data-pjax="true"><span>bootstrap_sass_project</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/brankonole/bit-web/tree/master/bootstrap_sass_project/css" data-pjax="true"><span>css</span></a></span><span class="separator">/</span><strong class="final-path">main.css.map</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/brankonole/bit-web" data-pjax="true"><span>bit-web</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/brankonole/bit-web/tree/master/bootstrap_sass_project" data-pjax="true"><span>bootstrap_sass_project</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/brankonole/bit-web/tree/master/bootstrap_sass_project/css" data-pjax="true"><span>css</span></a></span><span class="separator">/</span><strong class="final-path">style.css</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/brankonole/bit-web/contributors/master/bootstrap_sass_project/css/main.css.map">
+  <include-fragment class="commit-tease" src="/brankonole/bit-web/contributors/master/bootstrap_sass_project/css/style.css">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -601,9 +601,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/brankonole/bit-web/raw/master/bootstrap_sass_project/css/main.css.map" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/brankonole/bit-web/blame/master/bootstrap_sass_project/css/main.css.map" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/brankonole/bit-web/commits/master/bootstrap_sass_project/css/main.css.map" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/brankonole/bit-web/raw/master/bootstrap_sass_project/css/style.css" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/brankonole/bit-web/blame/master/bootstrap_sass_project/css/style.css" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/brankonole/bit-web/commits/master/bootstrap_sass_project/css/style.css" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -613,13 +613,13 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/edit/master/bootstrap_sass_project/css/main.css.map" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1XfSRmnGtTJeaDHSbllS8i5yX0rzE3eVgDwVXoWfR4sE0hY6qTdf8WrQye+mXjOmDjRyBF/RDkqLTCC7eS9jZw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/edit/master/bootstrap_sass_project/css/style.css" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="G6t2PKMtXcGjBAiK/g+O7/q0Cvtfnd+JjykMaweMbyqy2wmpOcnK3LeCDUIsxF9QRg8J2TyHbHqkwAH+k91syQ==" /></div>
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/delete/master/bootstrap_sass_project/css/main.css.map" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9GiZ5ycag29cVKg+r9mnagf0nqTgIor6Rc0zncKQaBg0KkhJ0kiQxMHthI3GquhHy9qco9YKL3ACeO57CeggJg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/brankonole/bit-web/delete/master/bootstrap_sass_project/css/style.css" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LFgxmnS2ksRt7NzQsnRqAxZLFxXljvwyeH+fqIXn/cPC4Nr2j/3oAyER55oyOdI7nANWydB999PH1c8NowE1LA==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -627,43 +627,107 @@
 </form>  </div>
 
   <div class="file-info">
-      7 lines (7 sloc)
+      24 lines (22 sloc)
       <span class="file-info-divider"></span>
-    2.58 KB
+    1.43 KB
   </div>
 </div>
 
     
 
-  <div itemprop="text" class="blob-wrapper data type-text">
+  <div itemprop="text" class="blob-wrapper data type-css">
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">{</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">/*</span></span></td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">&quot;version&quot;: 3,</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Errno::ENOENT: No such file or directory @ rb_sysopen - scss/style.scss</span></td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">&quot;mappings&quot;: &quot;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&quot;,</td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"></span></td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">&quot;sources&quot;: [&quot;../scss/_global.scss&quot;,&quot;../scss/_variables.scss&quot;,&quot;../scss/_mixins.scss&quot;,&quot;../scss/_contact.scss&quot;,&quot;../scss/_navbar.scss&quot;,&quot;../scss/_portfolio.scss&quot;],</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c">Backtrace:</span></td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">&quot;names&quot;: [],</td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:454:in `read&#39;</span></td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">&quot;file&quot;: &quot;main.css&quot;</td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:454:in `update_stylesheet&#39;</span></td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:209:in `each&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:209:in `update_stylesheets&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:294:in `watch&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/plugin.rb:109:in `method_missing&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/exec/sass_scss.rb:360:in `watch_or_update&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/exec/sass_scss.rb:51:in `process_result&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/exec/base.rb:52:in `parse&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/lib/sass/exec/base.rb:19:in `parse!&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.5/bin/sass:13:in `&lt;top (required)&gt;&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/bin/sass:23:in `load&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-c">C:/Ruby24-x64/bin/sass:23:in `&lt;main&gt;&#39;</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">*/</span></span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">body</span><span class="pl-e">:before</span> {</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">white-space</span></span>: <span class="pl-c1">pre</span>;</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">font-family</span></span>: <span class="pl-c1">monospace</span>;</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1"><span class="pl-c1">content</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Errno::ENOENT: No such file or directory @ rb_sysopen - scss/style.scss<span class="pl-pds">&quot;</span></span>; }</td>
       </tr>
 </table>
 
@@ -675,7 +739,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
         <li><a class="js-zeroclipboard dropdown-item" style="cursor:pointer;" id="js-copy-lines" data-original-text="Copy lines">Copy lines</a></li>
         <li><a class="js-zeroclipboard dropdown-item" id= "js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</a></li>
-        <li><a href="/brankonole/bit-web/blame/02209a13da8ed460718b0b46e0b7647d598aefbd/bootstrap_sass_project/css/main.css.map" class="dropdown-item js-update-url-with-hash" id="js-view-git-blame">View git blame</a></li>
+        <li><a href="/brankonole/bit-web/blame/02209a13da8ed460718b0b46e0b7647d598aefbd/bootstrap_sass_project/css/style.css" class="dropdown-item js-update-url-with-hash" id="js-view-git-blame">View git blame</a></li>
           <li><a href="/brankonole/bit-web/issues/new" class="dropdown-item" id="js-new-issue">Open new issue</a></li>
       </ul>
     </div>
@@ -706,7 +770,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.25035s from unicorn-3282438199-wr0gj">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.22121s from unicorn-3282438199-g0lcc">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-terms-of-service/" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>

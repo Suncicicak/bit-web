@@ -13,38 +13,124 @@
 </head>
 
 <body>
-    <div class="container-fluid">
-        <header class="header">
-            <div class="pos-f-t">
-                <nav class="navbar navbar-dark bg-dark">
-                    <h5 class="text-white">BIT STUDENT</h5>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="text-white">MENU</span> <span class="navbar-toggler-icon"></span>
-                    </button>
-                </nav>
-
-                <div class="collapse" id="navbarToggleExternalContent">
-                    <div class="bg-dark p-4">
-                        <h6 class="text-white">PORTFOLIO</h6>
-                        <h6 class="text-white">ABOUT</h6>
-                        <h6 class="text-white">CONTACT</h6>
+    <header class="header">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">BIT STUDENT</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="text-white menu">MENU</span>
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse navbar-items" id="navbarText">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">PORTFOLIO
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">ABOUT</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">CONTACT</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="banner-top">
+            <img src="img/profile.png" alt="Profile image" class="banner-top-img" />
+            <h1 class="banner-top-title title-underlined">
+                BOOTRSTAP AND SASS
+                <span class="star">&#9733;</span>
+            </h1>
+            <p class="banner-top-desc">Web Developer - Graphic Artist - User Experience Designer</p>
+        </section>
+        <section class="portfolio">
+            <h2 class="portfolio-title title-underlined">
+                PORTFOLIO
+                <span class="star">&#9733;</span>
+            </h2>
+            <div class="container">
+                <div class="row">
+                    <div class="img-wrapper col-sm-12 col-md-6 col-lg-4">
+                        <img src="img/portfolio/cabin.png" alt="">
+                    </div>
+                    <div class="img-wrapper col-sm-12 col-md-6 col-lg-4">
+                        <img src="img/portfolio/cake.png" alt="">
+                    </div>
+                    <div class="img-wrapper col-sm-12 col-md-6 col-lg-4">
+                        <img src="img/portfolio/circus.png" alt="">
+                    </div>
+                    <div class="img-wrapper col-sm-12 col-md-6 col-lg-4">
+                        <img src="img/portfolio/game.png" alt="">
+                    </div>
+                    <div class="img-wrapper col-sm-12 col-md-6 col-lg-4">
+                        <img src="img/portfolio/safe.png" alt="">
+                    </div>
+                    <div class="img-wrapper col-sm-12 col-md-6 col-lg-4">
+                        <img src="img/portfolio/submarine.png" alt="">
                     </div>
                 </div>
             </div>
-        </header>
-        <div class="banner-top">
-            <div class="banner-top-wrapper">
-                <div class="line line-black"></div>
+        </section>
+        <section class="about">
+            <div class="container">
+                <h2 class="about-title title-underlined">
+                    ABOUT
+                    <span class="star">&#9733;</span>
+                </h2>
+                <div class="row">
+                    <p class="col-lg-6">
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam maiores odit, tempora cum dicta commodi soluta, adipisci
+                        excepturi ea culpa non labore quos dolore sint quis nihil at saepe corporis.Lorem ipsum, dolor sit
+                        amet consectetur adipisicing elit. Magnam maiores odit, tempora cum dicta commodi soluta, adipisci
+                        excepturi ea culpa non labore quos dolore sint quis nihil at saepe corporis.
+                    </p>
+                    <p class="col-lg-6">
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam maiores odit, tempora cum dicta commodi soluta, adipisci
+                        excepturi ea culpa non labore quos dolore sint quis nihil at saepe corporis.Lorem ipsum, dolor sit
+                        amet consectetur adipisicing elit. Magnam maiores odit, tempora cum dicta commodi soluta, adipisci
+                        excepturi ea culpa non labore quos dolore sint quis nihil at saepe corporis.
+                    </p>
+                </div>
+                <button type="button" class="about-btn btn btn-outline-light">Find Out More</button>
             </div>
-        </div>
-    </div>
-    <main>
-
-
+        </section>
+        <section class="contact">
+            <h2 class="contact-title title-underlined">
+                CONTACT ME
+                <span class="star">&#9733;</span>
+            </h2>
+            <div class="container">
+                <div class="row">
+                    <form class="contact-form col-12">
+                        <div class="form-group">
+                            <input class="contact-input form-control" type="text" placeholder="Name" />
+                            <input type="email" class="contact-input form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"
+                            />
+                            <input class="contact-input form-control" type="text" placeholder="Phone Number" />
+                            <div class="form-group">
+                                <textarea class="contact-input form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                </div>
+                <button type="submit" class="btn contact-btn">Send</button>
+                </form>
+            </div>
+        </section>
     </main>
     <footer>
-
+        <div class="container">
+            <div class="row">
+                <div class="footer-item"></div>
+                <div class="footer-item"></div>
+                <div class="footer-item"></div>
+            </div>
+        </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
