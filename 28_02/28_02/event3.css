@@ -1,0 +1,17 @@
+div {
+    background-image: url("field.png");
+    background-size: cover; 
+    height: 1200px;
+}
+
+div img {
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+button {
+    position: relative;
+    top: 98%;
+    left: 93%;
+}

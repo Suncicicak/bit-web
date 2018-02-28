@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Events</title>
+</head>
+
+<body class="a">
+
+    <input type="button" value="Toggle Background" onclick="firstButton()">
+    <input type="button" value="Turn off" onclick="secondButton()">
+
+    <script type="text/javascript">
+        function changeColor() {
+            document.querySelector('body').classList.toggle("b");
+        }
+        // function bla() {
+        //     var x = setInterval(changeColor, 1000);
+        //     function shutDownPlease(){
+        //     clearInterval(x);
+        // };
+        // }
+
+        var interval = null;
+
+        var firstButton = function () {
+            interval = clearInterval(interval);
+            interval = setInterval(changeColor, 100);
+        };
+
+        var secondButton = function() {
+            interval = clearInterval(interval);
+        };
+
+
+        // var firstButton = function () {
+        //     var button = document.querySelectorAll('input')[1];
+
+        //     if (interval === null) {
+        //         interval = setInterval(changeColor, 1000);
+        //         button.setAttribute('value', "Turn off");
+        //     } else if (interval !== null) {
+        //         clearInterval(interval);
+        //         interval = null;
+        //         button.setAttribute('value', "Turn on");
+        //     }
+        // }
+    </script>
+</body>
+
+</html>
