@@ -1,0 +1,95 @@
+* {
+    font-family: 'Indie Flower', 'cursive' !important;
+}
+
+body {
+    padding: 50px 150px;
+    font-family: 'Indie Flower', 'cursive';
+    background-image: url('https://previews.123rf.com/images/kentoh/kentoh0812/kentoh081200213/3985403-tv-channel-movie-guide-on-abstract-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 50px  !important;
+    color: rgb(178, 52, 67)  !important;
+}
+
+.firstDiv {
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: rgba(1, 124, 124, 0.8);
+    padding: 20px;
+}
+
+.secondDiv, .thirdDiv {
+    border: 1px solid black;
+    width: 90%;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.movie, .program {
+    padding: 20px;
+    margin: 5px 20px;
+    font-size: 30px;
+    color: #3bf700;
+}
+
+.movieTitle {
+    width: 100%;
+    border-radius: 15px;
+    height: 30px;
+}
+
+.movieLength, #movie-dropdown, #program-dropdown {
+    width: 100%;
+    border-radius: 15px;
+    height: 30px;
+}
+
+#movieGenre {
+    width: 100%;
+    text-align: right;
+    border-radius: 15px;
+    height: 30px;
+}
+
+.create-movie {
+    width: 100%;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 15px;
+    height: 50px;
+    border: none;
+}
+ul {
+    padding: 10px 50px;
+    list-style-type: none;
+    color: springgreen;
+}
+.totalLength {
+    text-align: right;
+    color: springgreen;
+    padding: 0 80px;
+}
+#title-error, #length-error, #genre-error, #date-error {
+    color: red;
+}
+.programDate {
+    width: 100%;
+    border-radius: 15px;
+}
+.create-program {
+    width: 100%;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 15px;
+    height: 50px;
+    border: none;
+}
+#program-dropdown {
+    margin-bottom: 15px;
+}

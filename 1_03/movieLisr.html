@@ -9,39 +9,40 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
         crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
 </head>
 
 <body>
     <h2>Movie list</h2>
     <div class="firstDiv">
-        <p>Movie</p>
+        <p class="movie">Movie</p>
         <div class="secondDiv">
             <form class=>
-                
-                    <label for="">Title</label>
-                    <input type="text" class="movieTitle" id="text" placeholder="Title">
-                    <p id="title-error"></p>
-                
-                
-                    <label for="example-number-input">Length (min)</label>
-                    <input type="number" class="movieLength" id="example-number-input" placeholder="Length in min">
-                    <p id="length-error"></p>
-                
-                
 
-                    <select name="" value "" id="movieGenre">
-                        <option value="-">-</option>
-                        <option value="Drama">Drama</option>
-                        <option value="Comedy">Comedy</option>
-                        <option value="Horror">Horror</option>
-                        <option value="Action">Action</option>
-                        <option value="Adventure">Adventure</option>
-                    </select>
-                    <p id="genre-error"></p>
+                <label for="">Title</label>
+                <input type="text" class="movieTitle" id="text" placeholder="Title">
+                <p id="title-error"></p>
 
-                
+
+                <label for="example-number-input">Length (min)</label>
+                <input type="number" class="movieLength" id="example-number-input" placeholder="Length in min">
+                <p id="length-error"></p>
+
+
+
+                <select name="" value "" id="movieGenre">
+                    <option value="-">-</option>
+                    <option value="Drama">Drama</option>
+                    <option value="Comedy">Comedy</option>
+                    <option value="Horror">Horror</option>
+                    <option value="Action">Action</option>
+                    <option value="Adventure">Adventure</option>
+                </select>
+                <p id="genre-error"></p>
+
+
                 <br>
-                <button type="submit" class="primary create-movie">Create Movie</button>
+                <button type="button" class="primary create-movie">Create Movie</button>
             </form>
         </div>
         <div class="listOfMovies"></div>
@@ -49,18 +50,40 @@
 
         </ul>
         <div class="totalLength">
-            <p>All movies length: <span> </span></p>
+            <p>All movies length:
+                <span> </span>
+            </p>
+        </div>
+        <p class="program">Program</p>
+        <div class="thirdDiv">
+            <label for="">Date</label>
+            <input type="date" class="programDate" id="date">
+            <p id="date-error"></p>
+            <button type="button" class="primary create-program">Create Program</button>
+            <div class="listOfPrograms"></div>
+            <ul class="finalProgramList">
+
+            </ul>
+            <label for="">Movie</label>
+            <select name="" value "" id="movie-dropdown">
+                <option value="-">-</option>
+            </select>
+            <label for="">Program</label>
+            <select name="" value "" id="program-dropdown">
+                <option value="-">-</option>
+            </select>
+            <button type="button" class="primary movie-program">Add movie to program</button>
         </div>
     </div>
 
 
-    <script src="script.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
         crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
+    <script src="script.js"></script>
 </body>
 
 </html>
