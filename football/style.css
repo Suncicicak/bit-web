@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    position: relative;
+    height: 852px;
+    border: 2px solid red;
+    overflow: hidden;
+}
+.field {
+    position: absolute;
+    width: 100%;
+}
+.player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10%;
+}
+.btn {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    background-color: red;
+    color: #fff;
+}
